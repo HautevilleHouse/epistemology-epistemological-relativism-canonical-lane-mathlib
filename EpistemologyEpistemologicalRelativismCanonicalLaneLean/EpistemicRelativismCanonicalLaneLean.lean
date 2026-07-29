@@ -1,0 +1,19 @@
+import EpistemologyEpistemologicalRelativismCanonicalLaneLean.EpistemicFramework
+import EpistemologyEpistemologicalRelativismCanonicalLaneLean.RelativismBridge
+import EpistemologyEpistemologicalRelativismCanonicalLaneLean.RelativismFinalTheorem
+import EpistemologyEpistemologicalRelativismCanonicalLaneLean.KnowledgeClaimClassification
+import EpistemologyEpistemologicalRelativismCanonicalLaneLean.TruthCriteria
+
+/-!
+# EpistemologyEpistemologicalRelativismCanonicalLaneLean
+
+Root module for the Epistemology Epistemological Relativism canonical lane.
+-/
+
+namespace HautevilleHouse
+namespace EpistemologyEpistemologicalRelativismCanonicalLaneLean
+
+-- This module collects all domain-specific definitions.
+
+end EpistemologyEpistemologicalRelativismCanonicalLaneLean
+end HautevilleHouse
